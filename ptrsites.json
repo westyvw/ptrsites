@@ -1,0 +1,3369 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "DBO.PTRSites",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.5635559351, 46.982747871 ]
+			},
+			"properties" : {
+				"OBJECTID" : 234,
+				"RouteID" : "012",
+				"SRMP" : 12.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 12.300000190734863,
+				"Latitude" : 46.982749206,
+				"Longitude" : -123.56355679,
+				"LRS_Date" : "20151231",
+				"SiteID" : "B02",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.0929594841, 46.3154100163 ]
+			},
+			"properties" : {
+				"OBJECTID" : 352,
+				"RouteID" : "395",
+				"SRMP" : 27.200000762939453,
+				"AheadBackInd" : "A",
+				"ARM" : 33.959999084472656,
+				"Latitude" : 46.315407629,
+				"Longitude" : -119.09296178,
+				"LRS_Date" : "20151231",
+				"SiteID" : "B03",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.9668292069, 47.1933144435 ]
+			},
+			"properties" : {
+				"OBJECTID" : 215,
+				"RouteID" : "090",
+				"SRMP" : 82.69999694824219,
+				"AheadBackInd" : "A",
+				"ARM" : 80.9800033569336,
+				"Latitude" : 47.193312781,
+				"Longitude" : -120.966831781,
+				"LRS_Date" : "20151231",
+				"SiteID" : "B04",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1896121964, 47.5574306934 ]
+			},
+			"properties" : {
+				"OBJECTID" : 337,
+				"RouteID" : "405",
+				"SRMP" : 9.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 9.270000457763672,
+				"Latitude" : 47.557432772,
+				"Longitude" : -122.189610261,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D1",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2422948046, 47.6377539397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 319,
+				"RouteID" : "520",
+				"SRMP" : 3.9000000953674316,
+				"AheadBackInd" : "A",
+				"ARM" : 3.9000000953674316,
+				"Latitude" : 47.637755899,
+				"Longitude" : -122.2422932,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D10",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1010474902, 47.3683810157 ]
+			},
+			"properties" : {
+				"OBJECTID" : 295,
+				"RouteID" : "018",
+				"SRMP" : 12.600000381469727,
+				"AheadBackInd" : "A",
+				"ARM" : 13.130000114440918,
+				"Latitude" : 47.368383308,
+				"Longitude" : -122.101044566,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D12",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3246706957, 47.469861495 ]
+			},
+			"properties" : {
+				"OBJECTID" : 322,
+				"RouteID" : "518",
+				"SRMP" : 0.3499999940395355,
+				"AheadBackInd" : "A",
+				"ARM" : 0.3499999940395355,
+				"Latitude" : 47.469863347,
+				"Longitude" : -122.324668306,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D13",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3273827028, 47.4802794729 ]
+			},
+			"properties" : {
+				"OBJECTID" : 327,
+				"RouteID" : "509",
+				"SRMP" : 26.299999237060547,
+				"AheadBackInd" : "A",
+				"ARM" : 31.100000381469727,
+				"Latitude" : 47.480281325,
+				"Longitude" : -122.327380371,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D14",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4487144486, 47.1583165435 ]
+			},
+			"properties" : {
+				"OBJECTID" : 326,
+				"RouteID" : "512",
+				"SRMP" : 1.5299999713897705,
+				"AheadBackInd" : "A",
+				"ARM" : 1.5299999713897705,
+				"Latitude" : 47.15831767,
+				"Longitude" : -122.448710653,
+				"LRS_Date" : "20151231",
+				"SiteID" : "D3",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.4371698309, 47.5100477516 ]
+			},
+			"properties" : {
+				"OBJECTID" : 194,
+				"RouteID" : "002",
+				"SRMP" : 113.0999984741211,
+				"AheadBackInd" : "A",
+				"ARM" : 113.16000366210938,
+				"Latitude" : 47.510047146,
+				"Longitude" : -120.437174604,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P01",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.5309961053, 47.5996583679 ]
+			},
+			"properties" : {
+				"OBJECTID" : 183,
+				"RouteID" : "002",
+				"SRMP" : 179.10000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 171.0500030517578,
+				"Latitude" : 47.59965635,
+				"Longitude" : -119.530999123,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P02",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.3956506642, 46.4167346038 ]
+			},
+			"properties" : {
+				"OBJECTID" : 210,
+				"RouteID" : "097",
+				"SRMP" : 66.30000305175781,
+				"AheadBackInd" : "A",
+				"ARM" : 65.91000366210938,
+				"Latitude" : 46.416731844,
+				"Longitude" : -120.395654419,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P03",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5619418033, 48.831644101 ]
+			},
+			"properties" : {
+				"OBJECTID" : 212,
+				"RouteID" : "005",
+				"SRMP" : 261.3299865722656,
+				"AheadBackInd" : "A",
+				"ARM" : 261.3900146484375,
+				"Latitude" : 48.831643922,
+				"Longitude" : -122.561947344,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P04",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.9516766838, 46.4389774345 ]
+			},
+			"properties" : {
+				"OBJECTID" : 280,
+				"RouteID" : "012",
+				"SRMP" : 376.9800109863281,
+				"AheadBackInd" : "A",
+				"ARM" : 373.75,
+				"Latitude" : 46.438975219,
+				"Longitude" : -117.951678501,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P05",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4400895789, 45.5791134559 ]
+			},
+			"properties" : {
+				"OBJECTID" : 246,
+				"RouteID" : "014",
+				"SRMP" : 11.800000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 11.8100004196167,
+				"Latitude" : 45.579109088,
+				"Longitude" : -122.440088212,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P06",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3237368679, 45.5725629191 ]
+			},
+			"properties" : {
+				"OBJECTID" : 298,
+				"RouteID" : "014",
+				"SRMP" : 17.700000762939453,
+				"AheadBackInd" : "A",
+				"ARM" : 17.709999084472656,
+				"Latitude" : 45.572558999,
+				"Longitude" : -122.323735063,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P07",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.3414640191, 46.4278729015 ]
+			},
+			"properties" : {
+				"OBJECTID" : 304,
+				"RouteID" : "082",
+				"SRMP" : 48.5,
+				"AheadBackInd" : "A",
+				"ARM" : 48.470001220703125,
+				"Latitude" : 46.427870198,
+				"Longitude" : -120.341467779,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P08",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2245167947, 46.0478271756 ]
+			},
+			"properties" : {
+				"OBJECTID" : 227,
+				"RouteID" : "082",
+				"SRMP" : 121.19999694824219,
+				"AheadBackInd" : "A",
+				"ARM" : 121.16999816894531,
+				"Latitude" : 46.047825073,
+				"Longitude" : -119.224518565,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P09",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.251888186, 47.857259706 ]
+			},
+			"properties" : {
+				"OBJECTID" : 221,
+				"RouteID" : "005",
+				"SRMP" : 184.47999572753906,
+				"AheadBackInd" : "A",
+				"ARM" : 184.5399932861328,
+				"Latitude" : 47.857261163,
+				"Longitude" : -122.251887495,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P1",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.4303173401, 47.1108790173 ]
+			},
+			"properties" : {
+				"OBJECTID" : 244,
+				"RouteID" : "090",
+				"SRMP" : 218.8300018310547,
+				"AheadBackInd" : "A",
+				"ARM" : 216.5399932861328,
+				"Latitude" : 47.11087591,
+				"Longitude" : -118.430319464,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P10",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.8859535382, 48.0058724064 ]
+			},
+			"properties" : {
+				"OBJECTID" : 230,
+				"RouteID" : "097",
+				"SRMP" : 250.35000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 235.41000366210938,
+				"Latitude" : 48.005871089,
+				"Longitude" : -119.885956445,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P11",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0966308875, 46.5486470133 ]
+			},
+			"properties" : {
+				"OBJECTID" : 342,
+				"RouteID" : "195",
+				"SRMP" : 6.010000228881836,
+				"AheadBackInd" : "A",
+				"ARM" : 6.320000171661377,
+				"Latitude" : 46.54864527,
+				"Longitude" : -117.096632584,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P13",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.2244595702, 46.7337768918 ]
+			},
+			"properties" : {
+				"OBJECTID" : 338,
+				"RouteID" : "195",
+				"SRMP" : 22.200000762939453,
+				"AheadBackInd" : "A",
+				"ARM" : 22.559999465942383,
+				"Latitude" : 46.73377505,
+				"Longitude" : -117.224461492,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P14",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4000600157, 47.5391311662 ]
+			},
+			"properties" : {
+				"OBJECTID" : 335,
+				"RouteID" : "195",
+				"SRMP" : 87.69999694824219,
+				"AheadBackInd" : "A",
+				"ARM" : 85.11000061035156,
+				"Latitude" : 47.539129037,
+				"Longitude" : -117.400062028,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P15",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.6016785858, 46.1248547163 ]
+			},
+			"properties" : {
+				"OBJECTID" : 323,
+				"RouteID" : "221",
+				"SRMP" : 13.100000381469727,
+				"AheadBackInd" : "A",
+				"ARM" : 12.979999542236328,
+				"Latitude" : 46.124852399,
+				"Longitude" : -119.601680759,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P17",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0797564544, 47.4835147905 ]
+			},
+			"properties" : {
+				"OBJECTID" : 198,
+				"RouteID" : "101",
+				"SRMP" : 324.79998779296875,
+				"AheadBackInd" : "A",
+				"ARM" : 323.8299865722656,
+				"Latitude" : 47.483515801,
+				"Longitude" : -123.07975408,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P18",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1547292068, 47.7740213551 ]
+			},
+			"properties" : {
+				"OBJECTID" : 315,
+				"RouteID" : "522",
+				"SRMP" : 13.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 13.260000228881836,
+				"Latitude" : 47.774023327,
+				"Longitude" : -122.154728313,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P19",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2027916625, 47.3024771598 ]
+			},
+			"properties" : {
+				"OBJECTID" : 243,
+				"RouteID" : "018",
+				"SRMP" : 5.260000228881836,
+				"AheadBackInd" : "A",
+				"ARM" : 5.789999961853027,
+				"Latitude" : 47.302479212,
+				"Longitude" : -122.202788347,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P20",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1284670056, 48.1884214717 ]
+			},
+			"properties" : {
+				"OBJECTID" : 260,
+				"RouteID" : "009",
+				"SRMP" : 28.75,
+				"AheadBackInd" : "A",
+				"ARM" : 28.75,
+				"Latitude" : 48.18842142,
+				"Longitude" : -122.128466614,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P21",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.4544665202, 48.9837295448 ]
+			},
+			"properties" : {
+				"OBJECTID" : 257,
+				"RouteID" : "097",
+				"SRMP" : 335.29998779296875,
+				"AheadBackInd" : "A",
+				"ARM" : 320.3399963378906,
+				"Latitude" : 48.983729482,
+				"Longitude" : -119.454466063,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P22",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.591349503, 48.3492671448 ]
+			},
+			"properties" : {
+				"OBJECTID" : 284,
+				"RouteID" : "097",
+				"SRMP" : 286.1600036621094,
+				"AheadBackInd" : "A",
+				"ARM" : 271.2099914550781,
+				"Latitude" : 48.349265394,
+				"Longitude" : -119.591350873,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P23",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0617948423, 47.6909985146 ]
+			},
+			"properties" : {
+				"OBJECTID" : 186,
+				"RouteID" : "090",
+				"SRMP" : 298.7900085449219,
+				"AheadBackInd" : "A",
+				"ARM" : 296.4800109863281,
+				"Latitude" : 47.690996726,
+				"Longitude" : -117.061797581,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P24",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.2051882915, 48.8627635869 ]
+			},
+			"properties" : {
+				"OBJECTID" : 344,
+				"RouteID" : "395",
+				"SRMP" : 260,
+				"AheadBackInd" : "A",
+				"ARM" : 264.739990234375,
+				"Latitude" : 48.862762124,
+				"Longitude" : -118.205194624,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P26",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.0053546184, 48.779009915 ]
+			},
+			"properties" : {
+				"OBJECTID" : 213,
+				"RouteID" : "025",
+				"SRMP" : 97,
+				"AheadBackInd" : "A",
+				"ARM" : 96.94000244140625,
+				"Latitude" : 48.779009335,
+				"Longitude" : -118.005356932,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P27",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.3544429747, 47.8454245673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 255,
+				"RouteID" : "002",
+				"SRMP" : 301.3999938964844,
+				"AheadBackInd" : "A",
+				"ARM" : 293.29998779296875,
+				"Latitude" : 47.845423133,
+				"Longitude" : -117.354444705,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P28",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.4779200958, 46.5953627684 ]
+			},
+			"properties" : {
+				"OBJECTID" : 254,
+				"RouteID" : "082",
+				"SRMP" : 34.02000045776367,
+				"AheadBackInd" : "A",
+				"ARM" : 33.9900016784668,
+				"Latitude" : 46.59536002,
+				"Longitude" : -120.477924413,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P29",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3231628839, 47.7643672382 ]
+			},
+			"properties" : {
+				"OBJECTID" : 256,
+				"RouteID" : "005",
+				"SRMP" : 176.8000030517578,
+				"AheadBackInd" : "A",
+				"ARM" : 176.86000061035156,
+				"Latitude" : 47.764368957,
+				"Longitude" : -122.323161817,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P3",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.2141140466, 47.5457884999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 278,
+				"RouteID" : "027",
+				"SRMP" : 77.30000305175781,
+				"AheadBackInd" : "A",
+				"ARM" : 79.5999984741211,
+				"Latitude" : 47.545786731,
+				"Longitude" : -117.214116283,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P30",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.0550784011, 47.7301939682 ]
+			},
+			"properties" : {
+				"OBJECTID" : 311,
+				"RouteID" : "290",
+				"SRMP" : 17.65999984741211,
+				"AheadBackInd" : "A",
+				"ARM" : 17.59000015258789,
+				"Latitude" : 47.730192139,
+				"Longitude" : -117.055081219,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P33",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.8113260302, 48.3162431175 ]
+			},
+			"properties" : {
+				"OBJECTID" : 347,
+				"RouteID" : "395",
+				"SRMP" : 212.64999389648438,
+				"AheadBackInd" : "A",
+				"ARM" : 217.41000366210938,
+				"Latitude" : 48.316241074,
+				"Longitude" : -117.811326848,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P34",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8674658494, 47.0404638382 ]
+			},
+			"properties" : {
+				"OBJECTID" : 179,
+				"RouteID" : "005",
+				"SRMP" : 106.69999694824219,
+				"AheadBackInd" : "A",
+				"ARM" : 106.7699966430664,
+				"Latitude" : 47.040464584,
+				"Longitude" : -122.86746278,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P4",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6616892808, 45.6436631019 ]
+			},
+			"properties" : {
+				"OBJECTID" : 266,
+				"RouteID" : "005",
+				"SRMP" : 1.9299999475479126,
+				"AheadBackInd" : "A",
+				"ARM" : 1.9299999475479126,
+				"Latitude" : 45.643657907,
+				"Longitude" : -122.661688801,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P5S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2200782294, 47.430866408 ]
+			},
+			"properties" : {
+				"OBJECTID" : 348,
+				"RouteID" : "167",
+				"SRMP" : 23.700000762939453,
+				"AheadBackInd" : "A",
+				"ARM" : 25.020000457763672,
+				"Latitude" : 47.430868424,
+				"Longitude" : -122.220075632,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P6",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.4099002683, 47.0739290739 ]
+			},
+			"properties" : {
+				"OBJECTID" : 350,
+				"RouteID" : "395",
+				"SRMP" : 93.01000213623047,
+				"AheadBackInd" : "A",
+				"ARM" : 99.56999969482422,
+				"Latitude" : 47.07392601,
+				"Longitude" : -118.409902321,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P7CS",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8919224337, 46.2075897128 ]
+			},
+			"properties" : {
+				"OBJECTID" : 285,
+				"RouteID" : "005",
+				"SRMP" : 44.29999923706055,
+				"AheadBackInd" : "A",
+				"ARM" : 44.369998931884766,
+				"Latitude" : 46.20758445,
+				"Longitude" : -122.891922434,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P8",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7211220219, 48.9733324142 ]
+			},
+			"properties" : {
+				"OBJECTID" : 309,
+				"RouteID" : "005",
+				"SRMP" : 274,
+				"AheadBackInd" : "A",
+				"ARM" : 274.05999755859375,
+				"Latitude" : 48.973333076,
+				"Longitude" : -122.721135818,
+				"LRS_Date" : "20151231",
+				"SiteID" : "P9",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1931079124, 48.176371102 ]
+			},
+			"properties" : {
+				"OBJECTID" : 196,
+				"RouteID" : "005",
+				"SRMP" : 207.75999450683594,
+				"AheadBackInd" : "A",
+				"ARM" : 207.80999755859375,
+				"Latitude" : 48.176371133,
+				"Longitude" : -122.193107139,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R001S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0028053236, 47.0527289299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 302,
+				"RouteID" : "101",
+				"SRMP" : 362.05999755859375,
+				"AheadBackInd" : "A",
+				"ARM" : 360.2099914550781,
+				"Latitude" : 47.052729427,
+				"Longitude" : -123.002802483,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R003E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.013045425, 47.0567955164 ]
+			},
+			"properties" : {
+				"OBJECTID" : 251,
+				"RouteID" : "101",
+				"SRMP" : 361.3699951171875,
+				"AheadBackInd" : "A",
+				"ARM" : 359.6300048828125,
+				"Latitude" : 47.056796024,
+				"Longitude" : -123.013042658,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R003N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0136327952, 47.0567350047 ]
+			},
+			"properties" : {
+				"OBJECTID" : 205,
+				"RouteID" : "008",
+				"SRMP" : 20.600000381469727,
+				"AheadBackInd" : "A",
+				"ARM" : 20.600000381469727,
+				"Latitude" : 47.056735513,
+				"Longitude" : -123.013630031,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R003W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.9027451153, 46.0557573085 ]
+			},
+			"properties" : {
+				"OBJECTID" : 226,
+				"RouteID" : "012",
+				"SRMP" : 307.8999938964844,
+				"AheadBackInd" : "A",
+				"ARM" : 305.1199951171875,
+				"Latitude" : 46.055755574,
+				"Longitude" : -118.902747014,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R008E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.8311905603, 47.402742082 ]
+			},
+			"properties" : {
+				"OBJECTID" : 296,
+				"RouteID" : "090",
+				"SRMP" : 254.6999969482422,
+				"AheadBackInd" : "A",
+				"ARM" : 252.41000366210938,
+				"Latitude" : 47.402739348,
+				"Longitude" : -117.831192398,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R014E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2868299035, 47.5899734571 ]
+			},
+			"properties" : {
+				"OBJECTID" : 247,
+				"RouteID" : "090",
+				"SRMP" : 4.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 2.359999895095825,
+				"Latitude" : 47.589975346,
+				"Longitude" : -122.286828081,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R017",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9881645712, 46.7577239124 ]
+			},
+			"properties" : {
+				"OBJECTID" : 217,
+				"RouteID" : "005",
+				"SRMP" : 85,
+				"AheadBackInd" : "A",
+				"ARM" : 85.06999969482422,
+				"Latitude" : 46.757724371,
+				"Longitude" : -122.988159594,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R019S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.133172545, 46.8405548447 ]
+			},
+			"properties" : {
+				"OBJECTID" : 268,
+				"RouteID" : "017",
+				"SRMP" : 30.3700008392334,
+				"AheadBackInd" : "A",
+				"ARM" : 22.8799991607666,
+				"Latitude" : 46.840552281,
+				"Longitude" : -119.133175824,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R020S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4111227133, 47.6950709429 ]
+			},
+			"properties" : {
+				"OBJECTID" : 208,
+				"RouteID" : "002",
+				"SRMP" : 289.7900085449219,
+				"AheadBackInd" : "A",
+				"ARM" : 281.69000244140625,
+				"Latitude" : 47.695069062,
+				"Longitude" : -117.411124149,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R021",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8740677634, 48.0021379203 ]
+			},
+			"properties" : {
+				"OBJECTID" : 276,
+				"RouteID" : "101",
+				"SRMP" : 281.1499938964844,
+				"AheadBackInd" : "A",
+				"ARM" : 280.19000244140625,
+				"Latitude" : 48.002138362,
+				"Longitude" : -122.874065946,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R023S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4626197988, 47.2151261303 ]
+			},
+			"properties" : {
+				"OBJECTID" : 289,
+				"RouteID" : "005",
+				"SRMP" : 131.27999877929688,
+				"AheadBackInd" : "A",
+				"ARM" : 131.33999633789062,
+				"Latitude" : 47.215127467,
+				"Longitude" : -122.462616125,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R034",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.3430470724, 47.6537999445 ]
+			},
+			"properties" : {
+				"OBJECTID" : 263,
+				"RouteID" : "090",
+				"SRMP" : 284.5299987792969,
+				"AheadBackInd" : "A",
+				"ARM" : 282.2300109863281,
+				"Latitude" : 47.653798148,
+				"Longitude" : -117.343048911,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R036",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.203367507, 48.4813339976 ]
+			},
+			"properties" : {
+				"OBJECTID" : 184,
+				"RouteID" : "020",
+				"SRMP" : 191.89999389648438,
+				"AheadBackInd" : "A",
+				"ARM" : 191.39999389648438,
+				"Latitude" : 48.481333019,
+				"Longitude" : -120.203369658,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R037",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.3322175318, 47.7127980232 ]
+			},
+			"properties" : {
+				"OBJECTID" : 299,
+				"RouteID" : "002",
+				"SRMP" : 50.119998931884766,
+				"AheadBackInd" : "A",
+				"ARM" : 50.20000076293945,
+				"Latitude" : 47.712799468,
+				"Longitude" : -121.332218604,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R038",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.7374962472, 47.4720242899 ]
+			},
+			"properties" : {
+				"OBJECTID" : 195,
+				"RouteID" : "090",
+				"SRMP" : 33.560001373291016,
+				"AheadBackInd" : "A",
+				"ARM" : 31.950000762939453,
+				"Latitude" : 47.472026677,
+				"Longitude" : -121.737494763,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R039W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5656303301, 46.735347658 ]
+			},
+			"properties" : {
+				"OBJECTID" : 297,
+				"RouteID" : "123",
+				"SRMP" : 3.880000114440918,
+				"AheadBackInd" : "A",
+				"ARM" : 3.9000000953674316,
+				"Latitude" : 46.735344797,
+				"Longitude" : -121.565627609,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R040N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.614696694, 46.6483880231 ]
+			},
+			"properties" : {
+				"OBJECTID" : 199,
+				"RouteID" : "012",
+				"SRMP" : 135.10000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 134.83999633789062,
+				"Latitude" : 46.648384676,
+				"Longitude" : -121.61469516,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R040W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.8011477242, 45.8369989294 ]
+			},
+			"properties" : {
+				"OBJECTID" : 290,
+				"RouteID" : "097",
+				"SRMP" : 13.40999984741211,
+				"AheadBackInd" : "A",
+				"ARM" : 13.649999618530273,
+				"Latitude" : 45.836995673,
+				"Longitude" : -120.80114968,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R041",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.981761596, 46.9402215597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 269,
+				"RouteID" : "090",
+				"SRMP" : 136.8000030517578,
+				"AheadBackInd" : "A",
+				"ARM" : 135.0800018310547,
+				"Latitude" : 46.940219275,
+				"Longitude" : -119.981765174,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R042",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -124.0742209718, 46.8609214984 ]
+			},
+			"properties" : {
+				"OBJECTID" : 245,
+				"RouteID" : "105",
+				"SRMP" : 31.920000076293945,
+				"AheadBackInd" : "A",
+				"ARM" : 31.850000381469727,
+				"Latitude" : 46.860923068,
+				"Longitude" : -124.074222686,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R043",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5528461248, 47.2703593814 ]
+			},
+			"properties" : {
+				"OBJECTID" : 248,
+				"RouteID" : "016",
+				"SRMP" : 8,
+				"AheadBackInd" : "A",
+				"ARM" : 5.920000076293945,
+				"Latitude" : 47.270360763,
+				"Longitude" : -122.552842786,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R044",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7348095931, 45.8929990496 ]
+			},
+			"properties" : {
+				"OBJECTID" : 291,
+				"RouteID" : "005",
+				"SRMP" : 20.139999389648438,
+				"AheadBackInd" : "A",
+				"ARM" : 20.139999389648438,
+				"Latitude" : 45.892994043,
+				"Longitude" : -122.734809845,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R045",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3223594286, 47.6535867747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202,
+				"RouteID" : "005",
+				"SRMP" : 168.83999633789062,
+				"AheadBackInd" : "A",
+				"ARM" : 168.89999389648438,
+				"Latitude" : 47.653588589,
+				"Longitude" : -122.322357889,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R046",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.5874439849, 47.5559604956 ]
+			},
+			"properties" : {
+				"OBJECTID" : 253,
+				"RouteID" : "002",
+				"SRMP" : 104.83999633789062,
+				"AheadBackInd" : "A",
+				"ARM" : 104.9000015258789,
+				"Latitude" : 47.555960444,
+				"Longitude" : -120.58744856,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R047EE",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.6546425727, 47.4773256818 ]
+			},
+			"properties" : {
+				"OBJECTID" : 265,
+				"RouteID" : "097",
+				"SRMP" : 178.19000244140625,
+				"AheadBackInd" : "A",
+				"ARM" : 162.94000244140625,
+				"Latitude" : 47.477325603,
+				"Longitude" : -120.654647166,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R047SS",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.6025142235, 47.5644692197 ]
+			},
+			"properties" : {
+				"OBJECTID" : 271,
+				"RouteID" : "002",
+				"SRMP" : 103.91999816894531,
+				"AheadBackInd" : "A",
+				"ARM" : 103.9800033569336,
+				"Latitude" : 47.564469242,
+				"Longitude" : -120.602518741,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R047WW",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.4551378437, 46.6914172641 ]
+			},
+			"properties" : {
+				"OBJECTID" : 200,
+				"RouteID" : "082",
+				"SRMP" : 25,
+				"AheadBackInd" : "A",
+				"ARM" : 25,
+				"Latitude" : 46.6914147,
+				"Longitude" : -120.455142146,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R048",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7061753241, 47.6485358221 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241,
+				"RouteID" : "003",
+				"SRMP" : 44.33000183105469,
+				"AheadBackInd" : "A",
+				"ARM" : 44.279998779296875,
+				"Latitude" : 47.648536878,
+				"Longitude" : -122.706173494,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R050N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5633330409, 45.6427201206 ]
+			},
+			"properties" : {
+				"OBJECTID" : 325,
+				"RouteID" : "205",
+				"SRMP" : 29.850000381469727,
+				"AheadBackInd" : "A",
+				"ARM" : 3.259999990463257,
+				"Latitude" : 45.642715327,
+				"Longitude" : -122.56333237,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R051N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1849717881, 47.9792562931 ]
+			},
+			"properties" : {
+				"OBJECTID" : 206,
+				"RouteID" : "002",
+				"SRMP" : 0.25999999046325684,
+				"AheadBackInd" : "A",
+				"ARM" : 0.38999998569488525,
+				"Latitude" : 47.979257312,
+				"Longitude" : -122.184971878,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R052E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.3117091416, 47.47052624 ]
+			},
+			"properties" : {
+				"OBJECTID" : 281,
+				"RouteID" : "002",
+				"SRMP" : 120.1500015258789,
+				"AheadBackInd" : "A",
+				"ARM" : 120.3499984741211,
+				"Latitude" : 47.470525284,
+				"Longitude" : -120.311713742,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R053E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.9154068715, 47.1846253172 ]
+			},
+			"properties" : {
+				"OBJECTID" : 259,
+				"RouteID" : "101",
+				"SRMP" : 104.55000305175781,
+				"AheadBackInd" : "A",
+				"ARM" : 104.12999725341797,
+				"Latitude" : 47.184627189,
+				"Longitude" : -123.915405964,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R054S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2250593578, 47.0971240605 ]
+			},
+			"properties" : {
+				"OBJECTID" : 189,
+				"RouteID" : "090",
+				"SRMP" : 180.3300018310547,
+				"AheadBackInd" : "A",
+				"ARM" : 178.61000061035156,
+				"Latitude" : 47.097121432,
+				"Longitude" : -119.225062545,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R055E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7740887073, 47.1961909563 ]
+			},
+			"properties" : {
+				"OBJECTID" : 312,
+				"RouteID" : "970",
+				"SRMP" : 6.849999904632568,
+				"AheadBackInd" : "A",
+				"ARM" : 6.849999904632568,
+				"Latitude" : 47.196189449,
+				"Longitude" : -120.774093243,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R057",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.8245907054, 47.7773707543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 235,
+				"RouteID" : "002",
+				"SRMP" : 80.19999694824219,
+				"AheadBackInd" : "A",
+				"ARM" : 80.27999877929688,
+				"Latitude" : 47.777371708,
+				"Longitude" : -120.824593729,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R058E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.3133656995, 47.4952514552 ]
+			},
+			"properties" : {
+				"OBJECTID" : 178,
+				"RouteID" : "097AR",
+				"SRMP" : 201.52999877929688,
+				"AheadBackInd" : "A",
+				"ARM" : 1.7000000476837158,
+				"Latitude" : 47.495250578,
+				"Longitude" : -120.313370295,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R059",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8045043719, 47.0569746826 ]
+			},
+			"properties" : {
+				"OBJECTID" : 231,
+				"RouteID" : "005",
+				"SRMP" : 110.02999877929688,
+				"AheadBackInd" : "A",
+				"ARM" : 110.0999984741211,
+				"Latitude" : 47.056975561,
+				"Longitude" : -122.804501256,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R060S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.0241503377, 46.4325524537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 351,
+				"RouteID" : "395",
+				"SRMP" : 36.2400016784668,
+				"AheadBackInd" : "A",
+				"ARM" : 43,
+				"Latitude" : 46.432550008,
+				"Longitude" : -119.024152976,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R061N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2525459551, 46.2478329229 ]
+			},
+			"properties" : {
+				"OBJECTID" : 321,
+				"RouteID" : "240",
+				"SRMP" : 37,
+				"AheadBackInd" : "A",
+				"ARM" : 35.16999816894531,
+				"Latitude" : 46.247830429,
+				"Longitude" : -119.2525479,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R062W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.6177493446, 48.0562294398 ]
+			},
+			"properties" : {
+				"OBJECTID" : 349,
+				"RouteID" : "395",
+				"SRMP" : 190.2899932861328,
+				"AheadBackInd" : "A",
+				"ARM" : 195.0500030517578,
+				"Latitude" : 48.056227317,
+				"Longitude" : -117.617750224,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R063",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.1630142315, 47.653509202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 237,
+				"RouteID" : "002",
+				"SRMP" : 250.5,
+				"AheadBackInd" : "A",
+				"ARM" : 242.4199981689453,
+				"Latitude" : 47.653506327,
+				"Longitude" : -118.163015614,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R064W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.1243993899, 46.8105829644 ]
+			},
+			"properties" : {
+				"OBJECTID" : 236,
+				"RouteID" : "026",
+				"SRMP" : 43.060001373291016,
+				"AheadBackInd" : "A",
+				"ARM" : 43.060001373291016,
+				"Latitude" : 46.810580409,
+				"Longitude" : -119.124402657,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R066E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.8429799556, 46.5308421578 ]
+			},
+			"properties" : {
+				"OBJECTID" : 191,
+				"RouteID" : "012",
+				"SRMP" : 389.7099914550781,
+				"AheadBackInd" : "A",
+				"ARM" : 386.4800109863281,
+				"Latitude" : 46.530839817,
+				"Longitude" : -117.842981752,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R067W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.4940977144, 48.4293531758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 203,
+				"RouteID" : "097",
+				"SRMP" : 293.4200134277344,
+				"AheadBackInd" : "A",
+				"ARM" : 278.4700012207031,
+				"Latitude" : 48.429351406,
+				"Longitude" : -119.494098839,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R068N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.3220712665, 48.097308914 ]
+			},
+			"properties" : {
+				"OBJECTID" : 233,
+				"RouteID" : "101",
+				"SRMP" : 254.1999969482422,
+				"AheadBackInd" : "A",
+				"ARM" : 253.4600067138672,
+				"Latitude" : 48.097309374,
+				"Longitude" : -123.322069605,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R069",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.0059844804, 48.5969354805 ]
+			},
+			"properties" : {
+				"OBJECTID" : 346,
+				"RouteID" : "395",
+				"SRMP" : 235.60000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 240.33999633789062,
+				"Latitude" : 48.596934678,
+				"Longitude" : -118.005985117,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R070",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -124.2779148652, 48.07017146 ]
+			},
+			"properties" : {
+				"OBJECTID" : 180,
+				"RouteID" : "101",
+				"SRMP" : 204,
+				"AheadBackInd" : "A",
+				"ARM" : 203.4199981689453,
+				"Latitude" : 48.07017266,
+				"Longitude" : -124.27791363,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R073",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.8652484003, 46.4426470052 ]
+			},
+			"properties" : {
+				"OBJECTID" : 197,
+				"RouteID" : "101",
+				"SRMP" : 30,
+				"AheadBackInd" : "A",
+				"ARM" : 30,
+				"Latitude" : 46.442646227,
+				"Longitude" : -123.86525352,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R074N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6417309461, 46.5320952912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 277,
+				"RouteID" : "012",
+				"SRMP" : 77.9000015258789,
+				"AheadBackInd" : "A",
+				"ARM" : 77.62999725341797,
+				"Latitude" : 46.532092118,
+				"Longitude" : -122.641729222,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R075E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.8296267343, 45.6939162473 ]
+			},
+			"properties" : {
+				"OBJECTID" : 219,
+				"RouteID" : "014",
+				"SRMP" : 100.63999938964844,
+				"AheadBackInd" : "A",
+				"ARM" : 100.52999877929688,
+				"Latitude" : 45.693912946,
+				"Longitude" : -120.829628313,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R076W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7992438633, 45.7017995178 ]
+			},
+			"properties" : {
+				"OBJECTID" : 270,
+				"RouteID" : "014",
+				"SRMP" : 102.2699966430664,
+				"AheadBackInd" : "A",
+				"ARM" : 102.16000366210938,
+				"Latitude" : 45.701796288,
+				"Longitude" : -120.799245465,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R077W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0294139425, 46.1777617653 ]
+			},
+			"properties" : {
+				"OBJECTID" : 258,
+				"RouteID" : "004",
+				"SRMP" : 55.04999923706055,
+				"AheadBackInd" : "A",
+				"ARM" : 55.040000915527344,
+				"Latitude" : 46.177757111,
+				"Longitude" : -123.029414605,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R078",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.2378509349, 46.2670823946 ]
+			},
+			"properties" : {
+				"OBJECTID" : 345,
+				"RouteID" : "182",
+				"SRMP" : 6.340000152587891,
+				"AheadBackInd" : "A",
+				"ARM" : 6.340000152587891,
+				"Latitude" : 46.267079906,
+				"Longitude" : -119.237852949,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R081",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1957919087, 47.9696050837 ]
+			},
+			"properties" : {
+				"OBJECTID" : 273,
+				"RouteID" : "005",
+				"SRMP" : 193.07000732421875,
+				"AheadBackInd" : "A",
+				"ARM" : 193.1300048828125,
+				"Latitude" : 47.969606127,
+				"Longitude" : -122.195791903,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R082S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1596745286, 48.2402665328 ]
+			},
+			"properties" : {
+				"OBJECTID" : 181,
+				"RouteID" : "009",
+				"SRMP" : 32.97999954223633,
+				"AheadBackInd" : "A",
+				"ARM" : 32.7400016784668,
+				"Latitude" : 48.240266214,
+				"Longitude" : -122.159673668,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R083N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.2014611039, 47.7222039442 ]
+			},
+			"properties" : {
+				"OBJECTID" : 307,
+				"RouteID" : "097",
+				"SRMP" : 220.5500030517578,
+				"AheadBackInd" : "A",
+				"ARM" : 205.61000061035156,
+				"Latitude" : 47.722203347,
+				"Longitude" : -120.201465135,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R084N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.636397137, 47.8665914371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 279,
+				"RouteID" : "104",
+				"SRMP" : 13.920000076293945,
+				"AheadBackInd" : "A",
+				"ARM" : 13.720000267028809,
+				"Latitude" : 47.866592178,
+				"Longitude" : -122.63639583,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R085",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.3320235983, 45.9384398136 ]
+			},
+			"properties" : {
+				"OBJECTID" : 282,
+				"RouteID" : "082",
+				"SRMP" : 132.10000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 132.07000732421875,
+				"Latitude" : 45.938437861,
+				"Longitude" : -119.332025164,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R086E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.1359867939, 46.2242280919 ]
+			},
+			"properties" : {
+				"OBJECTID" : 353,
+				"RouteID" : "395",
+				"SRMP" : 18.799999237060547,
+				"AheadBackInd" : "A",
+				"ARM" : 25.559999465942383,
+				"Latitude" : 46.224225755,
+				"Longitude" : -119.135988829,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R087",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6244242037, 47.4113229134 ]
+			},
+			"properties" : {
+				"OBJECTID" : 293,
+				"RouteID" : "016",
+				"SRMP" : 18.649999618530273,
+				"AheadBackInd" : "A",
+				"ARM" : 16.56999969482422,
+				"Latitude" : 47.411324297,
+				"Longitude" : -122.624421637,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R088",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7937409683, 47.4753598217 ]
+			},
+			"properties" : {
+				"OBJECTID" : 228,
+				"RouteID" : "003",
+				"SRMP" : 28.68000030517578,
+				"AheadBackInd" : "A",
+				"ARM" : 28.649999618530273,
+				"Latitude" : 47.475360954,
+				"Longitude" : -122.79373867,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R089S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.427906362, 47.2285333719 ]
+			},
+			"properties" : {
+				"OBJECTID" : 286,
+				"RouteID" : "007",
+				"SRMP" : 58.20000076293945,
+				"AheadBackInd" : "A",
+				"ARM" : 57.86000061035156,
+				"Latitude" : 47.228534825,
+				"Longitude" : -122.427902701,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R090N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6167726993, 47.0952466488 ]
+			},
+			"properties" : {
+				"OBJECTID" : 262,
+				"RouteID" : "005",
+				"SRMP" : 119.38999938964844,
+				"AheadBackInd" : "A",
+				"ARM" : 119.44999694824219,
+				"Latitude" : 47.095247609,
+				"Longitude" : -122.616769222,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R091N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.495702681, 47.1520426398 ]
+			},
+			"properties" : {
+				"OBJECTID" : 239,
+				"RouteID" : "005",
+				"SRMP" : 126.4000015258789,
+				"AheadBackInd" : "A",
+				"ARM" : 126.45999908447266,
+				"Latitude" : 47.152043713,
+				"Longitude" : -122.495698945,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R092S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3370724813, 48.4243375137 ]
+			},
+			"properties" : {
+				"OBJECTID" : 301,
+				"RouteID" : "005",
+				"SRMP" : 226.89999389648438,
+				"AheadBackInd" : "A",
+				"ARM" : 226.9600067138672,
+				"Latitude" : 48.42433691,
+				"Longitude" : -122.337070413,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R093N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5843645417, 47.8161138083 ]
+			},
+			"properties" : {
+				"OBJECTID" : 190,
+				"RouteID" : "104",
+				"SRMP" : 19.479999542236328,
+				"AheadBackInd" : "A",
+				"ARM" : 19.280000686645508,
+				"Latitude" : 47.816114784,
+				"Longitude" : -122.584363307,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R095",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6083998714, 47.7709469259 ]
+			},
+			"properties" : {
+				"OBJECTID" : 310,
+				"RouteID" : "307",
+				"SRMP" : 2.309999942779541,
+				"AheadBackInd" : "A",
+				"ARM" : 2.309999942779541,
+				"Latitude" : 47.770948007,
+				"Longitude" : -122.608398539,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R096S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9322125565, 46.9705073343 ]
+			},
+			"properties" : {
+				"OBJECTID" : 211,
+				"RouteID" : "005",
+				"SRMP" : 100.54000091552734,
+				"AheadBackInd" : "A",
+				"ARM" : 100.61000061035156,
+				"Latitude" : 46.970508011,
+				"Longitude" : -122.932209293,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R097S",
+				"WeighInMotion" : "Yes"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.911428165, 47.0243082036 ]
+			},
+			"properties" : {
+				"OBJECTID" : 225,
+				"RouteID" : "101",
+				"SRMP" : 367,
+				"AheadBackInd" : "A",
+				"ARM" : 365.1499938964844,
+				"Latitude" : 47.024308869,
+				"Longitude" : -122.911425114,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R098",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.906519655, 47.0096161868 ]
+			},
+			"properties" : {
+				"OBJECTID" : 204,
+				"RouteID" : "005",
+				"SRMP" : 103.5,
+				"AheadBackInd" : "A",
+				"ARM" : 103.56999969482422,
+				"Latitude" : 47.00961686,
+				"Longitude" : -122.90651656,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R099N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.3626624761, 47.8157969781 ]
+			},
+			"properties" : {
+				"OBJECTID" : 188,
+				"RouteID" : "017",
+				"SRMP" : 112.25,
+				"AheadBackInd" : "A",
+				"ARM" : 104.62999725341797,
+				"Latitude" : 47.815795053,
+				"Longitude" : -119.362664465,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R100N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3393291575, 47.5784442527 ]
+			},
+			"properties" : {
+				"OBJECTID" : 222,
+				"RouteID" : "099",
+				"SRMP" : 29.3700008392334,
+				"AheadBackInd" : "A",
+				"ARM" : 23.110000610351562,
+				"Latitude" : 47.578446067,
+				"Longitude" : -122.339327284,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R101N",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.41094815, 47.664632299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 287,
+				"RouteID" : "002",
+				"SRMP" : 287.70001220703125,
+				"AheadBackInd" : "A",
+				"ARM" : 279.55999755859375,
+				"Latitude" : 47.664630365,
+				"Longitude" : -117.410949697,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R102",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4112668225, 47.6860891424 ]
+			},
+			"properties" : {
+				"OBJECTID" : 305,
+				"RouteID" : "002CODIVISN",
+				"SRMP" : 289.20001220703125,
+				"AheadBackInd" : "A",
+				"ARM" : 0.009999999776482582,
+				"Latitude" : 47.686087245,
+				"Longitude" : -117.41126829,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R103",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9434627441, 46.6352673617 ]
+			},
+			"properties" : {
+				"OBJECTID" : 223,
+				"RouteID" : "005",
+				"SRMP" : 75.5,
+				"AheadBackInd" : "A",
+				"ARM" : 75.56999969482422,
+				"Latitude" : 46.635266267,
+				"Longitude" : -122.94345943,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R104",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.3369437885, 47.4568655504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 314,
+				"RouteID" : "285",
+				"SRMP" : 4.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 4.300000190734863,
+				"Latitude" : 47.456864599,
+				"Longitude" : -120.336948434,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R105",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2823563174, 47.1944755975 ]
+			},
+			"properties" : {
+				"OBJECTID" : 324,
+				"RouteID" : "512",
+				"SRMP" : 11.430000305175781,
+				"AheadBackInd" : "A",
+				"ARM" : 11.430000305175781,
+				"Latitude" : 47.194477088,
+				"Longitude" : -122.282352451,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R106E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4926614215, 47.2348739364 ]
+			},
+			"properties" : {
+				"OBJECTID" : 193,
+				"RouteID" : "016",
+				"SRMP" : 1.649999976158142,
+				"AheadBackInd" : "A",
+				"ARM" : 1.7999999523162842,
+				"Latitude" : 47.234875291,
+				"Longitude" : -122.49265779,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R107W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.4616059762, 48.764334073 ]
+			},
+			"properties" : {
+				"OBJECTID" : 224,
+				"RouteID" : "005",
+				"SRMP" : 254.35000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 254.41000366210938,
+				"Latitude" : 48.764333729,
+				"Longitude" : -122.461605874,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R108",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6747641051, 45.7901569247 ]
+			},
+			"properties" : {
+				"OBJECTID" : 275,
+				"RouteID" : "005",
+				"SRMP" : 12.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 12.300000190734863,
+				"Latitude" : 45.790151862,
+				"Longitude" : -122.674764127,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R109",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2968540623, 48.2919617728 ]
+			},
+			"properties" : {
+				"OBJECTID" : 250,
+				"RouteID" : "005",
+				"SRMP" : 217.1699981689453,
+				"AheadBackInd" : "A",
+				"ARM" : 217.22000122070312,
+				"Latitude" : 48.29196135,
+				"Longitude" : -122.296852448,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R110",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.3979350284, 47.7790778496 ]
+			},
+			"properties" : {
+				"OBJECTID" : 341,
+				"RouteID" : "395SPNSC",
+				"SRMP" : 167.17999267578125,
+				"AheadBackInd" : "A",
+				"ARM" : 5.150000095367432,
+				"Latitude" : 47.779076157,
+				"Longitude" : -117.397936406,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R111",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2858778016, 47.2032913977 ]
+			},
+			"properties" : {
+				"OBJECTID" : 218,
+				"RouteID" : "167",
+				"SRMP" : 5.650000095367432,
+				"AheadBackInd" : "A",
+				"ARM" : 6.929999828338623,
+				"Latitude" : 47.203292943,
+				"Longitude" : -122.285873978,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R112",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2580200831, 47.2877680942 ]
+			},
+			"properties" : {
+				"OBJECTID" : 354,
+				"RouteID" : "167",
+				"SRMP" : 13.300000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 14.579999923706055,
+				"Latitude" : 47.287770022,
+				"Longitude" : -122.258016682,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R113",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.3600780141, 47.7441351697 ]
+			},
+			"properties" : {
+				"OBJECTID" : 343,
+				"RouteID" : "395SPNSC",
+				"SRMP" : 163.60000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 1.5700000524520874,
+				"Latitude" : 47.744133497,
+				"Longitude" : -117.360079569,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R114",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8710204677, 46.0921821777 ]
+			},
+			"properties" : {
+				"OBJECTID" : 308,
+				"RouteID" : "005",
+				"SRMP" : 35.880001068115234,
+				"AheadBackInd" : "A",
+				"ARM" : 35.880001068115234,
+				"Latitude" : 46.09217718,
+				"Longitude" : -122.871020979,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R115",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6629740691, 47.5274560231 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214,
+				"RouteID" : "016",
+				"SRMP" : 27.09000015258789,
+				"AheadBackInd" : "A",
+				"ARM" : 25.059999465942383,
+				"Latitude" : 47.52745732,
+				"Longitude" : -122.662971936,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R116",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3125922067, 47.5933391504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 201,
+				"RouteID" : "090",
+				"SRMP" : 2.9800000190734863,
+				"AheadBackInd" : "A",
+				"ARM" : 1.0399999618530273,
+				"Latitude" : 47.593340999,
+				"Longitude" : -122.312590399,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R117",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.4612376116, 47.6422059573 ]
+			},
+			"properties" : {
+				"OBJECTID" : 216,
+				"RouteID" : "090",
+				"SRMP" : 278.79998779296875,
+				"AheadBackInd" : "A",
+				"ARM" : 276.510009765625,
+				"Latitude" : 47.642203869,
+				"Longitude" : -117.461239067,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R118",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6585587545, 47.0844839819 ]
+			},
+			"properties" : {
+				"OBJECTID" : 187,
+				"RouteID" : "005",
+				"SRMP" : 117.26000213623047,
+				"AheadBackInd" : "A",
+				"ARM" : 117.33000183105469,
+				"Latitude" : 47.084484945,
+				"Longitude" : -122.658555373,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R119",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5491896446, 47.1232204741 ]
+			},
+			"properties" : {
+				"OBJECTID" : 185,
+				"RouteID" : "005",
+				"SRMP" : 123.16999816894531,
+				"AheadBackInd" : "A",
+				"ARM" : 123.2300033569336,
+				"Latitude" : 47.123221473,
+				"Longitude" : -122.54918602,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R120",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.9722610242, 48.8152186006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 182,
+				"RouteID" : "025",
+				"SRMP" : 100.5999984741211,
+				"AheadBackInd" : "A",
+				"ARM" : 100.54000091552734,
+				"Latitude" : 48.815217898,
+				"Longitude" : -117.972264437,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R121",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.0749477159, 48.5890780642 ]
+			},
+			"properties" : {
+				"OBJECTID" : 292,
+				"RouteID" : "025",
+				"SRMP" : 79.87999725341797,
+				"AheadBackInd" : "A",
+				"ARM" : 79.87999725341797,
+				"Latitude" : 48.589077094,
+				"Longitude" : -118.074948591,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R122",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.1384268909, 48.6111507627 ]
+			},
+			"properties" : {
+				"OBJECTID" : 288,
+				"RouteID" : "020",
+				"SRMP" : 340.6400146484375,
+				"AheadBackInd" : "A",
+				"ARM" : 339.989990234375,
+				"Latitude" : 48.61114973,
+				"Longitude" : -118.138428077,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R123",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.8696021608, 48.5474430889 ]
+			},
+			"properties" : {
+				"OBJECTID" : 192,
+				"RouteID" : "020",
+				"SRMP" : 356.010009765625,
+				"AheadBackInd" : "A",
+				"ARM" : 355.3599853515625,
+				"Latitude" : 48.547442257,
+				"Longitude" : -117.86960273,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R124",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3227332786, 47.6457577406 ]
+			},
+			"properties" : {
+				"OBJECTID" : 232,
+				"RouteID" : "005RL005EXP",
+				"SRMP" : 168.30999755859375,
+				"AheadBackInd" : "A",
+				"ARM" : 3.0199999809265137,
+				"Latitude" : 47.645759557,
+				"Longitude" : -122.322731704,
+				"LRS_Date" : "20151231",
+				"SiteID" : "R49R",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.2959869014, 47.4098115532 ]
+			},
+			"properties" : {
+				"OBJECTID" : 317,
+				"RouteID" : "285",
+				"SRMP" : 0.30000001192092896,
+				"AheadBackInd" : "A",
+				"ARM" : 0.30000001192092896,
+				"Latitude" : 47.409810382,
+				"Longitude" : -120.295991495,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S103",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3066273328, 47.8060640026 ]
+			},
+			"properties" : {
+				"OBJECTID" : 177,
+				"RouteID" : "005",
+				"SRMP" : 179.8800048828125,
+				"AheadBackInd" : "A",
+				"ARM" : 179.94000244140625,
+				"Latitude" : 47.806065573,
+				"Longitude" : -122.306626406,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S189",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2696239243, 47.4747036957 ]
+			},
+			"properties" : {
+				"OBJECTID" : 229,
+				"RouteID" : "005",
+				"SRMP" : 155.3699951171875,
+				"AheadBackInd" : "A",
+				"ARM" : 155.42999267578125,
+				"Latitude" : 47.474705616,
+				"Longitude" : -122.269621562,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S201",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3212380205, 47.5628644862 ]
+			},
+			"properties" : {
+				"OBJECTID" : 283,
+				"RouteID" : "005",
+				"SRMP" : 162.35000610351562,
+				"AheadBackInd" : "A",
+				"ARM" : 162.41000366210938,
+				"Latitude" : 47.562866332,
+				"Longitude" : -122.321236078,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S202",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1634395882, 47.5798511553 ]
+			},
+			"properties" : {
+				"OBJECTID" : 300,
+				"RouteID" : "090",
+				"SRMP" : 10.4399995803833,
+				"AheadBackInd" : "A",
+				"ARM" : 8.5,
+				"Latitude" : 47.579853283,
+				"Longitude" : -122.16343777,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S203",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1866762259, 47.6064365114 ]
+			},
+			"properties" : {
+				"OBJECTID" : 336,
+				"RouteID" : "405",
+				"SRMP" : 13.039999961853027,
+				"AheadBackInd" : "A",
+				"ARM" : 13.029999732971191,
+				"Latitude" : 47.606438583,
+				"Longitude" : -122.186674516,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S204",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2681422298, 47.4416705993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 306,
+				"RouteID" : "005",
+				"SRMP" : 153,
+				"AheadBackInd" : "A",
+				"ARM" : 153.05999755859375,
+				"Latitude" : 47.441672519,
+				"Longitude" : -122.268139683,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S205",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.0752084188, 47.6551128924 ]
+			},
+			"properties" : {
+				"OBJECTID" : 329,
+				"RouteID" : "202",
+				"SRMP" : 9.649999618530273,
+				"AheadBackInd" : "A",
+				"ARM" : 9.630000114440918,
+				"Latitude" : 47.655115151,
+				"Longitude" : -122.075207011,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S206",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3204903446, 47.6423328946 ]
+			},
+			"properties" : {
+				"OBJECTID" : 320,
+				"RouteID" : "520",
+				"SRMP" : 0.17000000178813934,
+				"AheadBackInd" : "A",
+				"ARM" : 0.17000000178813934,
+				"Latitude" : 47.642334716,
+				"Longitude" : -122.320488755,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S502",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9535069694, 46.1137642789 ]
+			},
+			"properties" : {
+				"OBJECTID" : 330,
+				"RouteID" : "433",
+				"SRMP" : 0.699999988079071,
+				"AheadBackInd" : "A",
+				"ARM" : 0.699999988079071,
+				"Latitude" : 46.113759441,
+				"Longitude" : -122.95350769,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S503",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1616890542, 47.6298695757 ]
+			},
+			"properties" : {
+				"OBJECTID" : 318,
+				"RouteID" : "520",
+				"SRMP" : 8.199999809265137,
+				"AheadBackInd" : "A",
+				"ARM" : 8.1899995803833,
+				"Latitude" : 47.629871689,
+				"Longitude" : -122.161687468,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S533",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1212494977, 47.6671488161 ]
+			},
+			"properties" : {
+				"OBJECTID" : 316,
+				"RouteID" : "520",
+				"SRMP" : 12.100000381469727,
+				"AheadBackInd" : "A",
+				"ARM" : 12.09000015258789,
+				"Latitude" : 47.667150986,
+				"Longitude" : -122.121248113,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S547",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.7302252847, 46.6386736603 ]
+			},
+			"properties" : {
+				"OBJECTID" : 242,
+				"RouteID" : "024",
+				"SRMP" : 43.5,
+				"AheadBackInd" : "A",
+				"ARM" : 43.220001220703125,
+				"Latitude" : 46.638671169,
+				"Longitude" : -119.730228345,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S612",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6480781047, 48.207589051 ]
+			},
+			"properties" : {
+				"OBJECTID" : 261,
+				"RouteID" : "020",
+				"SRMP" : 20.020000457763672,
+				"AheadBackInd" : "A",
+				"ARM" : 19.639999389648438,
+				"Latitude" : 48.207588827,
+				"Longitude" : -122.648077207,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S706",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6505361941, 48.9301038293 ]
+			},
+			"properties" : {
+				"OBJECTID" : 267,
+				"RouteID" : "005",
+				"SRMP" : 269.6000061035156,
+				"AheadBackInd" : "A",
+				"ARM" : 269.6600036621094,
+				"Latitude" : 48.930104175,
+				"Longitude" : -122.650548,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S803S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2917116973, 47.3756063837 ]
+			},
+			"properties" : {
+				"OBJECTID" : 264,
+				"RouteID" : "005",
+				"SRMP" : 148.07000732421875,
+				"AheadBackInd" : "A",
+				"ARM" : 148.1300048828125,
+				"Latitude" : 47.375608259,
+				"Longitude" : -122.291708784,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S809S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7840886524, 46.7485324682 ]
+			},
+			"properties" : {
+				"OBJECTID" : 303,
+				"RouteID" : "012",
+				"SRMP" : 185.6199951171875,
+				"AheadBackInd" : "A",
+				"ARM" : 185.3300018310547,
+				"Latitude" : 46.748529845,
+				"Longitude" : -120.784092846,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S818E",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7888635365, 46.7452786397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 252,
+				"RouteID" : "012",
+				"SRMP" : 185.25,
+				"AheadBackInd" : "A",
+				"ARM" : 184.91000366210938,
+				"Latitude" : 46.745276006,
+				"Longitude" : -120.788867689,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S818S",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.7908435159, 46.7483204843 ]
+			},
+			"properties" : {
+				"OBJECTID" : 332,
+				"RouteID" : "410",
+				"SRMP" : 116.26000213623047,
+				"AheadBackInd" : "A",
+				"ARM" : 107.33000183105469,
+				"Latitude" : 46.74831785,
+				"Longitude" : -120.790847658,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S818W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9104389456, 46.2308844057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 331,
+				"RouteID" : "411",
+				"SRMP" : 7.96999979019165,
+				"AheadBackInd" : "A",
+				"ARM" : 7.96999979019165,
+				"Latitude" : 46.230879178,
+				"Longitude" : -122.910438891,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S819",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.6976410714, 48.6529635808 ]
+			},
+			"properties" : {
+				"OBJECTID" : 238,
+				"RouteID" : "020",
+				"SRMP" : 304.6000061035156,
+				"AheadBackInd" : "A",
+				"ARM" : 303.9800109863281,
+				"Latitude" : 48.652962326,
+				"Longitude" : -118.69764171,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S820W",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1820484666, 47.6875700105 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334,
+				"RouteID" : "405",
+				"SRMP" : 18.700000762939453,
+				"AheadBackInd" : "A",
+				"ARM" : 18.690000534057617,
+				"Latitude" : 47.687572068,
+				"Longitude" : -122.182047131,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S822",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2286285403, 47.8093110851 ]
+			},
+			"properties" : {
+				"OBJECTID" : 333,
+				"RouteID" : "405",
+				"SRMP" : 28,
+				"AheadBackInd" : "A",
+				"ARM" : 27.979999542236328,
+				"Latitude" : 47.809312793,
+				"Longitude" : -122.228627702,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S824",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.0829036582, 47.5566949317 ]
+			},
+			"properties" : {
+				"OBJECTID" : 220,
+				"RouteID" : "090",
+				"SRMP" : 14.649999618530273,
+				"AheadBackInd" : "A",
+				"ARM" : 12.720000267028809,
+				"Latitude" : 47.556697247,
+				"Longitude" : -122.082901776,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S825",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.9227453854, 47.5174050001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 272,
+				"RouteID" : "090",
+				"SRMP" : 23.540000915527344,
+				"AheadBackInd" : "A",
+				"ARM" : 21.610000610351562,
+				"Latitude" : 47.517407609,
+				"Longitude" : -121.922743486,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S826",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.1936924638, 47.4963184289 ]
+			},
+			"properties" : {
+				"OBJECTID" : 339,
+				"RouteID" : "405",
+				"SRMP" : 4.960000038146973,
+				"AheadBackInd" : "A",
+				"ARM" : 4.929999828338623,
+				"Latitude" : 47.496320512,
+				"Longitude" : -122.193690244,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S827",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3744069118, 47.2404369338 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209,
+				"RouteID" : "005",
+				"SRMP" : 136.6300048828125,
+				"AheadBackInd" : "A",
+				"ARM" : 136.69000244140625,
+				"Latitude" : 47.240438551,
+				"Longitude" : -122.37440327,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S837",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.8844835546, 47.5047336735 ]
+			},
+			"properties" : {
+				"OBJECTID" : 207,
+				"RouteID" : "018",
+				"SRMP" : 27.6200008392334,
+				"AheadBackInd" : "A",
+				"ARM" : 28.1200008392334,
+				"Latitude" : 47.504736329,
+				"Longitude" : -121.884481666,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S838",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.2829933813, 47.4956960037 ]
+			},
+			"properties" : {
+				"OBJECTID" : 313,
+				"RouteID" : "599",
+				"SRMP" : 1.149999976158142,
+				"AheadBackInd" : "A",
+				"ARM" : 1.149999976158142,
+				"Latitude" : 47.495697911,
+				"Longitude" : -122.282991135,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S839",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5958486689, 46.373144548 ]
+			},
+			"properties" : {
+				"OBJECTID" : 328,
+				"RouteID" : "504",
+				"SRMP" : 19.43000030517578,
+				"AheadBackInd" : "A",
+				"ARM" : 19.3799991607666,
+				"Latitude" : 46.373140269,
+				"Longitude" : -122.595846865,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S840",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.872152303, 46.241818971 ]
+			},
+			"properties" : {
+				"OBJECTID" : 340,
+				"RouteID" : "401",
+				"SRMP" : 0.15000000596046448,
+				"AheadBackInd" : "A",
+				"ARM" : 0.15000000596046448,
+				"Latitude" : 46.241816354,
+				"Longitude" : -123.872158965,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S841NE",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.8779485928, 46.2411897671 ]
+			},
+			"properties" : {
+				"OBJECTID" : 274,
+				"RouteID" : "101",
+				"SRMP" : 0.6000000238418579,
+				"AheadBackInd" : "A",
+				"ARM" : 0.6000000238418579,
+				"Latitude" : 46.241187151,
+				"Longitude" : -123.877955376,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S841NW",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.4825949198, 47.3962650145 ]
+			},
+			"properties" : {
+				"OBJECTID" : 249,
+				"RouteID" : "090",
+				"SRMP" : 47.599998474121094,
+				"AheadBackInd" : "A",
+				"ARM" : 45.97999954223633,
+				"Latitude" : 47.39626527,
+				"Longitude" : -121.482595217,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S901",
+				"WeighInMotion" : "No"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.2884284053, 47.2972896122 ]
+			},
+			"properties" : {
+				"OBJECTID" : 294,
+				"RouteID" : "090",
+				"SRMP" : 63.97999954223633,
+				"AheadBackInd" : "A",
+				"ARM" : 62.29999923706055,
+				"Latitude" : 47.297287514,
+				"Longitude" : -121.288427923,
+				"LRS_Date" : "20151231",
+				"SiteID" : "S903",
+				"WeighInMotion" : "No"
+			}
+		}
+	]
+}
